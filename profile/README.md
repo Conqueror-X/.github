@@ -20,7 +20,7 @@
 
 
 ---
-## 📌 About Conqueror X
+## About Conqueror X
 
 Conqueror X is a focused, solo-driven organization committed to building practical and impactful technology.
 The goal is simple: improve every day through consistent engineering, experimentation, and learning.
@@ -47,7 +47,8 @@ Every project is crafted with intention—designed to solve real problems, explo
   </text>
 </svg>
 </div>
----
+
+<br>
 <p align="center">
   <strong>© Conqueror X — Built with curiosity and focus.</strong>
 </p>
