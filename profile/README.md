@@ -4,33 +4,33 @@
 
 
 <p align="center">
-  <strong>Engineering Secure, Intelligent, and Scalable Solutions</strong>  
+  <strong>Building Secure, Automated, and Intelligent Systems</strong>  
   <br>
-  Cybersecurity • AI/ML • Full-Stack Development
+  Cybersecurity • Automation • ML
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-AFF8FF?style=for-the-badge&logo=hackaday&logoColor=000000" />
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-E6CCFF?style=for-the-badge&logo=tensorflow&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Automation-CFF9FF?style=for-the-badge&logo=linux&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Full--Stack-D0E5FF?style=for-the-badge&logo=javascript&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Cybersecurity-0A192F?style=for-the-badge&logo=hackaday&logoColor=00E5FF" />
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-112240?style=for-the-badge&logo=tensorflow&logoColor=FFAE00" />
+  <img src="https://img.shields.io/badge/Automation-172A46?style=for-the-badge&logo=linux&logoColor=00FFB3" />
+  <img src="https://img.shields.io/badge/Full--Stack-1C314F?style=for-the-badge&logo=javascript&logoColor=FFD600" />
 </p>
 
 
 ---
 ## About Conqueror X
 
-Conqueror X is a focused, solo-driven organization committed to building practical and impactful technology.
-The goal is simple: improve every day through consistent engineering, experimentation, and learning.
+Conqueror X is a focused, independent initiative dedicated to building practical and high-impact technology.
+The mission is simple: grow every day through disciplined engineering, experimentation, and continuous learning.
 
-Key areas of work:
-- Cybersecurity & Automation
-- AI/ML Research & Model Development
-- Developer Tools, Utilities, and System Scripts
+Core Areas of Work
+- Cybersecurity & Security Automation
+- AI/ML Research, Model Development, and Applied Intelligence
+- Developer Tools, Utilities, and System-Level Scripting
 
-Every project is crafted with intention—designed to solve real problems, explore emerging technologies, and deliver clean, scalable engineering solutions.
+Each project is built with purpose — crafted to solve real-world problems, explore emerging technologies, and deliver clean, scalable, and reliable engineering solutions.
 
 ---
 ## 👤 Creator
@@ -43,7 +43,7 @@ Every project is crafted with intention—designed to solve real problems, explo
 
   <text x="10" y="80" font-size="18" fill="#ffffff">
     <animate attributeName="opacity" from="0" to="1" dur="1.4s" begin="1s" fill="freeze" />
-    Cybersecurity • AI/ML • Automation • Engineering
+    Cybersecurity • Automation • Machine Learning
   </text>
 </svg>
 </div>
